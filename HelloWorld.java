@@ -4,5 +4,6 @@ public class HelloWorld {
     System.out.println("We are exploring Jenkins");
     System.out.println("We are exploring Build Triggers-Poll SCM");
     System.out.println("We are exploring Build Triggers-Build Periodically");
+    System.out.println("We are exploring Build Triggers-Webhook");
   }
 }
