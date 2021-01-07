@@ -3,5 +3,6 @@ public class HelloWorld {
     System.out.println("Hello, Welcome to Devops!");
     System.out.println("We are exploring Jenkins");
     System.out.println("We are exploring Build Triggers-Poll SCM");
+    System.out.println("We are exploring Build Triggers-Build Periodically");
   }
 }
